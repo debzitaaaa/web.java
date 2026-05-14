@@ -1,0 +1,8 @@
+class Consulta{
+	String data;
+  Veterinario veterinario; 
+	Animal animal;
+
+	String relato;
+	String diagnostico;
+}
