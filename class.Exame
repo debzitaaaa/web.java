@@ -1,0 +1,6 @@
+class Exame{
+	String descricao;
+
+	Animal animal;
+	Veterinario vetResponsavel;
+}
