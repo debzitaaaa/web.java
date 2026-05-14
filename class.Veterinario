@@ -1,0 +1,6 @@
+class Veterinario{
+  String nome;
+	
+	Endereco endereco;
+	Contato contato; 
+}
