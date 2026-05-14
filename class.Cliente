@@ -1,0 +1,9 @@
+class Cliente {
+    String nome;
+  
+    Endereco endereco;
+    Contato contato;
+
+    // Um cliente pode ter vários animais
+    Animal[] animais;
+}
