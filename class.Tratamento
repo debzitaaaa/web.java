@@ -1,0 +1,6 @@
+class Tratamento{
+	String dataInicio;
+	String dataTermino;
+
+	Exame[] exames;
+}
