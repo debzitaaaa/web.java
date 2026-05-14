@@ -1,0 +1,5 @@
+class Endereco {
+    String rua;
+    String cidade;
+    int numero;
+}
